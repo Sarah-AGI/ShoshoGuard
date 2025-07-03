@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node / React
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+
+# Podcasts & Assets (لو ما تبيهم في الجيت)
+*.mp3
+*.wav
+*.ogg
+
+# Backup and temp
+*.bak
+*.tmp
+*.swp
+
